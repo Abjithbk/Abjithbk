@@ -1,71 +1,63 @@
-## 👋 Hi, I'm Abjith
+👋 Hi, I'm Abjith B K
 
 💻 Software Enthusiast | 🚀 Full Stack Developer | 🤖 AI Explorer
 
 ---
 
-## 🧠 About Me
+🧠 About Me
 
-- 💡 Passionate about **solving real-world problems using software**
-- 🧩 Strong interest in **system thinking and scalable solutions**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🌐 Building modern full-stack applications with clean architecture
+- 💡 Passionate about solving real-world problems using software
+- 🧩 Strong interest in system thinking and scalable solutions
+- 🌐 Building modern full-stack applications
+- 🤖 Exploring Artificial Intelligence & Machine Learning
 - 📈 Constantly improving through projects, problem-solving, and practice
 
 ---
 
-## 🌐 Profiles & Socials
+🌐 Profiles & Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abjith-b-k)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/Abjith_B_K)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bkabjith2@gmail.com)
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)" (https://linkedin.com/in/abjith-b-k)
+""LeetCode" (https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)" (https://leetcode.com/Abjith_B_K)
+""Gmail" (https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)" (mailto:bkabjith2@gmail.com)
 
 ---
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+💻 Tech Stack
+
+"C" (https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+"C++" (https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+"Java" (https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+"React" (https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+"Next.js" (https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+"Supabase" (https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+"Vercel" (https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+"Render" (https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
+"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
 
-### 🗄 Database
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Abjith-B-K&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Abjith-B-K&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤖 AI & ML (Exploring)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+🔥 GitHub Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=Abjith-B-K&theme=tokyonight)
 
 ---
 
-### ⚙️ Dev & Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
----
-
-## 🧩 Problem Solving
-
-- 🧠 Active on **LeetCode** solving DSA & algorithmic problems
-- ⚡ Focused on writing **efficient, clean, and scalable code**
-- 📊 Interested in optimization, backend logic, and system design
-
----
-
+⭐ From "Abjith-B-K" (https://github.com/Abjith-B-K)
