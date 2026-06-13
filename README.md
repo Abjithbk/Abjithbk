@@ -4,7 +4,6 @@
 ---
 
 ## 🧠 About Me
-
 - 💡 Passionate about solving real-world problems using software
 - 🧩 Strong interest in system thinking and scalable solutions
 - 🌐 Building modern full-stack applications
@@ -14,7 +13,6 @@
 ---
 
 ## 🌐 Profiles & Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abjith-b-k)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/Abjith_B_K)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bkabjith2@gmail.com)
@@ -22,7 +20,6 @@
 ---
 
 ## 💻 Tech Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -45,11 +42,9 @@
 
 ---
 
-
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abjithbk&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abjithbk&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="GitHub Streak" />
 </p>
 
 ---
